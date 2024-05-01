@@ -1,0 +1,12 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/ProjetosMAUI/.vs
+/.vs
+/ProjetosMAUI/APPNumeroDaSorte/bin/Debug
+/ProjetosMAUI/APPNumeroDaSorte/obj
+/ProjetosMAUI/AppTabbedPage/bin/Debug
+/ProjetosMAUI/AppTabbedPage/obj
+/ProjetosMAUI/FlayoutPageApp/bin/Debug
+/ProjetosMAUI/FlayoutPageApp/obj
